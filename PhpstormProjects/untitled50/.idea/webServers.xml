@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="10ad882e-9013-4af6-8bd3-785002f6f6d4" name="tmp2" url="http://ftp.ihavenohome.com">
+        <fileTransfer host="ftp.ihavenohome.com" port="21" username="ihavenohomecom">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
