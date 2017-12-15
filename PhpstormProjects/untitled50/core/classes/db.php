@@ -2,7 +2,7 @@
 
 $servername ="ihavenohomecom.domaincommysql.com";
 $username = "jew";
-$password = "Dsad1234?";
+$password = "";
 $dbname = "jewish";
 
 $conn = new mysqli($servername,$username,$password,$dbname);
